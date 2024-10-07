@@ -1,0 +1,204 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  margin: 0 auto;
+}
+
+.first-block{
+  background-image: url(../img/background.png);
+  width: 1440px;
+  height: 793px;
+  background-size: cover;
+}
+
+#logo{
+  margin-left: 195px;
+}
+
+#navLinks{
+  margin-left: 80px;
+}
+
+.btn{
+  padding: 12px 25px;
+  background-color: #23A6F0;
+}
+
+.main-text{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 133px;
+}
+
+
+
+.btn2{
+  padding: 12px 25px;
+  background-color: #23A6F0;
+}
+
+.btn3{
+  padding: 12px 25px;
+  border: 1px solid white;
+  margin-left: 10px;
+}
+
+.buttons{
+  margin-top: 40px;
+}
+
+.cards{
+  position: absolute;
+  top: 700px;
+  left: 400px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+#card{
+  display: flex;
+  flex-direction: column;
+  width: 328px;
+  height: 201px;
+  background-color: rgb(255, 255, 255);
+  padding-left: 40px;
+}
+
+.img{
+  width: 48px;
+  height: 40px;
+  margin-top: 35px;
+  margin-bottom: 10px;
+}
+
+.text-blue{
+  color: #252B42;
+}
+
+#card2{
+  display: flex;
+  flex-direction: column;
+  width: 328px;
+  height: 201px;
+  background-color: #23A6F0;
+  padding-left: 40px;
+}
+
+.div-gray{
+  width: 1440px;
+  height: 200px;
+  background-color: rgb(245, 241, 241);
+}
+
+#ss{
+  display: flex;
+  flex-direction: column;
+}
+
+.iimg{
+  margin-left: 110px;
+}
+
+.section2{
+  margin-left: 200px;
+}
+
+#photo{
+  margin-top: 40px;
+  margin-left: 65px;
+}
+
+
+.stars{
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+.photos{
+  margin-left: 200px;
+}
+
+.section4{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.spons{
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.hooli{
+  width: 153px;
+  height: 34px;
+}
+
+.lyat{
+  width: 146px;
+  height: 59px;
+}
+
+.list{
+  width: 152px;
+  height: 75px;
+}
+
+.sprite{
+  width: 151px;
+  height: 42px;
+}
+
+.aws{
+  width: 151px;
+  height: 62px;
+}
+.reddit{
+  width: 151px;
+  height: 72px;
+}
+
+.form{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1048px;
+  padding: 30px 50px;
+}
+
+.email{
+  width: 450px;
+  margin-right: 190px;
+}
+
+.butt{
+  margin-left: -500px;
+}
+
+.rrr{
+  margin-left: 280px;
+}
+
+#right{
+  height: 665px;
+}
+
+#center{
+  height: 705px;
+  margin-top: -38px;
+}
+
+#err{
+  background-color: #252B42;
+}
